@@ -1,0 +1,52 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "home_search_btn_background",
+      "value": "#FFE7E4E4"
+    },
+    {
+      "name": "bottom_btn_selected_background",
+      "value": "#FFF30505"
+    },
+    {
+      "name": "bottom_btn_background",
+      "value": "#FF070707"
+    },
+    {
+      "name": "home_title_background",
+      "value": "#FFF30505"
+    },
+    {
+      "name": "home_tabs_background",
+      "value": "#FFE0DDDD"
+    },
+    {
+      "name": "items_background",
+      "value": "#FFFAF3F3"
+    },
+    {
+      "name": "items_background_hot",
+      "value": "#FFFAD7D7"
+    },
+    {
+      "name": "items_background_nor",
+      "value": "#FFF6F4F4"
+    },
+    {
+      "name": "logout_btn_background",
+      "value": "#FFF30606"
+    },
+    {
+      "name": "newsdetail_nologin_bg",
+      "value": "#F3F1EFEF"
+    },
+    {
+      "name": "newsdetail_title_bg",
+      "value": "#FFF5F1F1"
+    }
+  ]
+}
